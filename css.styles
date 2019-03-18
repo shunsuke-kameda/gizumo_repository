@@ -35,6 +35,10 @@ header li > a:hover{
    color: royalblue;
  }
 
+ .current {
+   border-bottom:4px solid royalblue;
+ }
+
 section {
   text-align: center;
 }
@@ -100,3 +104,12 @@ footer li > a:hover{
    font-size:14px;
    text-align: right;
  }
+
+ .about {
+   width: 400px;
+   margin: 0 auto 60px;
+ }
+
+.about p {
+  text-align:left;
+}
