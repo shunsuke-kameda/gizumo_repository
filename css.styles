@@ -49,3 +49,9 @@ section p {
   font-size:14px;
 
 }
+
+/* section >img */
+.icon {
+  /* border-radius: 30px; */
+  border-radius: 50%;
+}
