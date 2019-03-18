@@ -6,6 +6,8 @@ body {
 
 header{
   background-color: pink;
+  text-align: right;
+  padding: 10px;
 }
 
 ul {
@@ -16,10 +18,15 @@ ul {
 
 li {
   display: inline-block;
-  /* padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left:8px;
-  padding-right: 8px; */
   padding: 4px 8px;
   font-size:12px;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ a:hover{
+   color: royalblue;
+ }
